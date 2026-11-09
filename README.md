@@ -1,2 +1,2 @@
-# Gestion_Projets
-TP de Gestion_Projets
+# Gestion_Projets: Groupe LLM
+TP de Gestion_Projets 
